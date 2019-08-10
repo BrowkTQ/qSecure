@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="spigot-1.10.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../APIs/spigot-1.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../APIs/spigot-1.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../APIs/spigot-1.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../APIs/spigot-1.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../APIs/spigot-1.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../APIs/spigot-1.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../APIs/spigot-1.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../APIs/spigot-1.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../APIs/spigot-1.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../APIs/spigot-1.9.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>

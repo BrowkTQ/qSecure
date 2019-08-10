@@ -1,0 +1,14 @@
+name: qSecure
+main: me.Browk.qSecure.Main
+version: 1.0.1
+authors:
+ - 'Browk'
+description: Play.Minecraft-Romania.Ro security plugin.
+commands:
+  confirmarediscord:
+    description: Confirma ID-ul de Discord.
+
+permissions:
+    qsecure.use:
+        description: Use qSecure.
+        default: op
